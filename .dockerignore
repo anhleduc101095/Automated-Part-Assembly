@@ -27,3 +27,10 @@ docker-compose.yml
 .dockerignore
 .env
 .api-data
+
+# External test files và datasets
+simulation/externals/stb/tests
+simulation/externals/pybind11/tests
+assets/joint_assembly
+assets/multi_assembly
+logs
